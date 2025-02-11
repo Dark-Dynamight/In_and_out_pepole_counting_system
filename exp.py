@@ -244,7 +244,7 @@ def main(video_path):
     plt.show()
 
 if __name__ == "__main__":
-    video_path = 'test3.mp4'  # Change this to your video file path
+    video_path = 'test.mp4'  # Change this to your video file path
     try:
         main(video_path)
     except Exception as e:
